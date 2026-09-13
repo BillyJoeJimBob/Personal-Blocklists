@@ -1,0 +1,27 @@
+# Title: Streaming Media Blocklist
+# Description: Blocks streaming media player ads and trackers.
+# Homepage: https://github.com/BillyJoeJimBob/Personal-Blocklists
+# Last modified: 12 Sep 2026
+# Syntax: DNSMasq v2.86 or newer
+# Number of entries: 20
+#
+local=/2mdn.net/
+local=/adrta.com/
+local=/ads.roku.com/
+local=/adsafeprotected.com/
+local=/adsrvr.org/
+local=/amazon-adsystem.com/
+local=/avodmp4s3ww-a.akamaihd.net/
+local=/cf-trickplay.aux.pv-cdn.net/
+local=/doubleclick.net/
+local=/fwmrm.net/
+local=/googlesyndication.com/
+local=/imrworldwide.com/
+local=/innovid.com/
+local=/logs.roku.com/
+local=/obs.ads.ottera.tv/
+local=/rainmaker.production-public.tubi.io/
+local=/ravm.tv/
+local=/spotxchange.com/
+local=/springserve.com/
+local=/videorolls.row.aiv-cdn.net/
